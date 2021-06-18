@@ -1,6 +1,9 @@
 
 import sqlite3
-DATABASE = './server/superheros.sqlite'
+from dotenv import load_dotenv
+import os
+load_dotenv() 
+DATABASE = os.getenv('DATABASE') or './server/superheros.sqlite'
 def get_db():
     return sqlite3.connect(DATABASE)
 
