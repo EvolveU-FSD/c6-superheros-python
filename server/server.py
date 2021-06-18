@@ -1,5 +1,5 @@
 from flask import Flask, Blueprint, request
-app = Flask(__name__, static_folder='./client/build')
+app = Flask(__name__, static_folder='../client/build')
 from routes.superhero import superhero
 app.config['CORS_HEADERS'] = 'Content-Type'
 
