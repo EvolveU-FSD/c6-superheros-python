@@ -1,5 +1,2 @@
-def hello():
-    print('hello')
+import main
 
-
-n = 3

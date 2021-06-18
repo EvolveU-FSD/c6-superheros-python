@@ -25,7 +25,7 @@ const ListPage = () => {
               <tr><th>Name</th><th>Nickname</th><th>Alter Ego</th><th>Sidekick</th></tr>
               {rows.map((row) => {
                   return (                                     
-                    <tr key={row.name} onClick={() => { history.push('/superhero/' + row._id) }}>
+                    <tr key={row.name} onClick={() => { history.push('/superhero/' + row.id) }}>
                         <td>{row.name}</td>
                         <td>{row.nickname}</td>
                         <td>{row.alterego}</td>

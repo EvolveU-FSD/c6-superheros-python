@@ -25,14 +25,20 @@
 # hello()
 
 
-from second_file import n
+# from second_file import n
 
-print(n)
+# print(n)
 
-# while n<5:
-#     print(n)
+# # while n<5:
+# #     print(n)
 
-import packages.package1
+# import packages.package1
 
 
-print(f"n is {n}")
+# print(f"n is {n}")
+
+# nums = [4,5,6]
+def func():
+    nums = [1,2,3]
+func()
+print('hello')

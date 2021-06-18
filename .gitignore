@@ -9,6 +9,7 @@
 **/typings/
 **/.npm/
 **/.venv
+**/__pycache__
 
 # FILES TO IGNORE
 *.log
