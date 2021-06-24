@@ -1,24 +1,12 @@
+
 from flask import Flask
-app = Flask(__name__, static_folder='../client/build')
-from routes.superhero import superhero
 
-@app.route('/static/<path:path>')
-def react(path):
-    print(path)
-    return app.send_static_file('static/'+path)
+from routes.superhero import superhero_router
 
+app = Flask(__name__)
+app.register_blueprint(superhero_router)
+@app.route("/")
+def hello_world():
+    return "<p>Hello, World!</p>"
 
-
-@app.route('/')
-def home():
-    print('here')
-    return app.send_static_file('index.html')
-
-
-app.register_blueprint(superhero)
-if __name__ == '__main__':
-    app.run(port=5000)
-
-
-
-
+app.run()
