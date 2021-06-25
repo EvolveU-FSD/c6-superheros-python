@@ -1,7 +1,6 @@
 
 from flask import Flask
 from flask_jwt_extended import JWTManager, jwt_required, get_jwt_identity
-from flask_jwt_extended.view_decorators import verify_jwt_in_request
 from routes.superhero import superhero_router
 from routes.auth import auth_router
 app = Flask(__name__)

@@ -1,17 +1,4 @@
-from bs4 import BeautifulSoup
-from lxml import etree
-import requests
-base = 'https://metanumbers.com/prime-numbers'
-page = requests.get(base)
-content = str(page.content)
-content = content.split('<body>')[1]
-content = content.split('</body>')[0]
-content = '<body>'+content+'</body>'
-print(content)
-doc = etree.fromstring(content)
-n = doc.xpath('/body')
-for m in n:
-    print(m)
+
 
 
 # base = 'https://en.wikipedia.org'
