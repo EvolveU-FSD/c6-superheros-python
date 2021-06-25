@@ -1,12 +1,17 @@
 import sqlite3
+import psycopg2 as pg
 from dotenv import load_dotenv
 import os
 
 load_dotenv()
-DATABASE = os.getenv('DATABASE')
+DB = os.getenv('DB')
+USERNAME = os.getenv('DB_USERNAME')
+PASSWORD = os.getenv('PASSWORD')
+HOST = os.getenv('HOST')
+
 
 def get_db():
-    return sqlite3.connect(DATABASE)
+    return pg.connect(f"user={USERNAME} password={PASSWORD} dbname={DB} host={HOST}")
 
 
 def dict_from_query(cols, rows):
@@ -22,7 +27,11 @@ def query(s, args=()):
     db = get_db()
     cursor = db.cursor()
     cursor.execute(s,args)
-    result = dict_from_query(cursor.description,cursor.fetchall())
+    result = None
+    try:
+        result = dict_from_query(cursor.description,cursor.fetchall())
+    except pg.ProgrammingError:
+        pass
     db.commit()
     db.close()
     return result
