@@ -7,8 +7,8 @@ from routes.auth import auth_router
 app = Flask(__name__,static_folder='../client/build')
 app.config['JWT_SECRET_KEY'] = 'kittens'
 app.config['JWT_TOKEN_LOCATION'] = ['cookies']
-app.config['JWT_COOKIE_SECURE'] = False
-app.config['JWT_COOKIE_CSRF_PROTECT'] = False
+# app.config['JWT_COOKIE_SECURE'] = False
+# app.config['JWT_COOKIE_CSRF_PROTECT'] = False
 JWTManager(app)
 app.register_blueprint(superhero_router)
 app.register_blueprint(auth_router)
@@ -30,4 +30,5 @@ def protected():
     
 
     return logged_in_user
-app.run()
+if __name__ == '__main__':
+    app.run()
