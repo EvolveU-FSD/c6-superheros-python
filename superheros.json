@@ -1,0 +1,544 @@
+[
+  { "name": "Dirkjan", "sidekick": "Bert", "wiki": null, "year": "" },
+  {
+    "name": "Bakelandt",
+    "sidekick": "P\u00e9 Bruyneel",
+    "wiki": null,
+    "year": ""
+  },
+  {
+    "name": "Achille Talon",
+    "sidekick": "Hilarion Lefuneste",
+    "wiki": null,
+    "year": ""
+  },
+  {
+    "name": "The Yellow Kid",
+    "sidekick": "The Nipper Twins",
+    "wiki": null,
+    "year": "1896"
+  },
+  { "name": "Quick", "sidekick": "Flupke", "wiki": null, "year": "1930" },
+  { "name": "Bucky Bug", "sidekick": "Bo Bug", "wiki": null, "year": "1932" },
+  {
+    "name": "Mister America",
+    "sidekick": "Fatman",
+    "wiki": "/wiki/Tex_Thompson",
+    "year": "1938",
+    "alterego": "Harry \"Tex\" Thompson (originally Tomson)"
+  },
+  {
+    "name": "Crimson Avenger",
+    "sidekick": "Wing",
+    "wiki": "/wiki/Crimson_Avenger",
+    "year": "1938",
+    "alterego": "Lee Walter Travis"
+  },
+  {
+    "name": "Spirou",
+    "sidekick": "Spip",
+    "wiki": "/wiki/Spirou_(comics)",
+    "year": "1939",
+    "alterego": "Le Petit Spirou"
+  },
+  {
+    "name": "Mr. Scarlet",
+    "sidekick": "Pinky the Whiz Kid",
+    "wiki": "/wiki/Mr._Scarlet",
+    "year": "1940",
+    "alterego": "Brian Butler"
+  },
+  {
+    "name": "Batman",
+    "sidekick": "Robin",
+    "wiki": "/wiki/Batman",
+    "year": "1940",
+    "alterego": "Bruce Wayne"
+  },
+  {
+    "name": "Human Torch (android)",
+    "sidekick": "Toro",
+    "wiki": "/wiki/Human_Torch_(android)",
+    "year": "1940",
+    "alterego": "Jim Hammond"
+  },
+  {
+    "name": "Green Hornet",
+    "sidekick": "Kato",
+    "wiki": "/wiki/Green_Hornet",
+    "year": "1940",
+    "alterego": "Britt Reid"
+  },
+  {
+    "name": "Spirit",
+    "sidekick": "Ebony White",
+    "wiki": "/wiki/Spirit_(comics)",
+    "year": "1940",
+    "alterego": "Denny Colt"
+  },
+  {
+    "name": "Green Lantern (Alan Scott)",
+    "sidekick": "Doiby Dickles",
+    "wiki": "/wiki/Alan_Scott",
+    "year": "1941"
+  },
+  {
+    "name": "Captain Marvel (DC)",
+    "sidekick": "Lieutenant Marvels",
+    "wiki": "/wiki/Captain_Marvel_(DC_Comics)",
+    "year": "1941",
+    "alterego": "William Joseph \"Billy\" Batson"
+  },
+  {
+    "name": "Superman",
+    "sidekick": "Jimmy Olsen",
+    "wiki": "/wiki/Superman",
+    "year": "1941",
+    "alterego": "Kal-El (birth name)"
+  },
+  {
+    "name": "Sandman (Wesley Dodds)",
+    "sidekick": "Sandy the Golden Boy",
+    "wiki": "/wiki/Sandman_(Wesley_Dodds)",
+    "year": "1941"
+  },
+  {
+    "name": "Star-Spangled Kid",
+    "sidekick": "Stripesy",
+    "wiki": "/wiki/Star-Spangled_Kid",
+    "year": "1941"
+  },
+  {
+    "name": "Captain America",
+    "sidekick": "Bucky",
+    "wiki": "/wiki/Captain_America",
+    "year": "1941",
+    "alterego": "Steven Rogers"
+  },
+  {
+    "name": "Tom Poes",
+    "sidekick": "Oliver B. Bumble",
+    "wiki": null,
+    "year": "1941"
+  },
+  {
+    "name": "Tintin (character)",
+    "sidekick": "Captain Haddock",
+    "wiki": "/wiki/Tintin_(character)",
+    "year": "1941"
+  },
+  {
+    "name": "Archie",
+    "sidekick": "Jughead",
+    "wiki": "/wiki/Archie_Andrews_(comics)",
+    "year": "1941"
+  },
+  {
+    "name": "Black Terror",
+    "sidekick": "Tim",
+    "wiki": "/wiki/Black_Terror",
+    "year": "1941",
+    "alterego": "Bob Benton"
+  },
+  {
+    "name": "TNT",
+    "sidekick": "Dan the Dyna-Mite",
+    "wiki": "/wiki/TNT_(comics)",
+    "year": "1942",
+    "alterego": "Thomas N. \"Tex\" Thomas"
+  },
+  {
+    "name": "Guardian",
+    "sidekick": "Newsboy Legion",
+    "wiki": "/wiki/Guardian_(DC_Comics)",
+    "year": "1942",
+    "alterego": "James Jacob \"Jim\" Harper"
+  },
+  {
+    "name": "Green Arrow",
+    "sidekick": "Speedy",
+    "wiki": "/wiki/Green_Arrow",
+    "year": "1942",
+    "alterego": "Oliver Jonas \"Ollie\" Queen"
+  },
+  {
+    "name": "Vigilante",
+    "sidekick": "Stuff the Chinatown Kid",
+    "wiki": "/wiki/Vigilante_(comics)#Greg_Saunders",
+    "year": "1942",
+    "alterego": "Greg Saunders"
+  },
+  {
+    "name": "Plastic Man",
+    "sidekick": "Woozy Winks",
+    "wiki": "/wiki/Plastic_Man",
+    "year": "1942",
+    "alterego": "Patrick \"Eel\" O'Brian"
+  },
+  {
+    "name": "Mary Marvel",
+    "sidekick": "Uncle Marvel",
+    "wiki": "/wiki/Mary_Marvel",
+    "year": "1943",
+    "alterego": "Mary Willow Batson"
+  },
+  { "name": "Kramikske", "sidekick": "Bertje", "wiki": null, "year": "1944" },
+  {
+    "name": "Martin Myst\u00e8re",
+    "sidekick": "Java",
+    "wiki": null,
+    "year": "1944"
+  },
+  {
+    "name": "Le Petit Spirou",
+    "sidekick": "Antoine Vertignasse",
+    "wiki": null,
+    "year": "1944"
+  },
+  {
+    "name": "Knight (DC)",
+    "sidekick": "Squire II",
+    "wiki": "/wiki/Knight_(DC_Comics)",
+    "year": "1950",
+    "alterego": "Percival Sheldrake"
+  },
+  {
+    "name": "Piet Pienter",
+    "sidekick": "Bert Bibber",
+    "wiki": null,
+    "year": "1951"
+  },
+  {
+    "name": "Lambik",
+    "sidekick": "Jerom",
+    "wiki": "/wiki/Lambik",
+    "year": "1952"
+  },
+  { "name": "Jommeke", "sidekick": "Filiberke", "wiki": null, "year": "1955" },
+  {
+    "name": "Marvelman",
+    "sidekick": "Kid Marvelman",
+    "wiki": "/wiki/Marvelman",
+    "year": "1955",
+    "alterego": "Michael Moran"
+  },
+  {
+    "name": "Gil Jourdan",
+    "sidekick": "Libellulle",
+    "wiki": "/wiki/Gil_Jourdan",
+    "year": "1956"
+  },
+  {
+    "name": "Flash (Barry Allen)",
+    "sidekick": "Kid Flash",
+    "wiki": "/wiki/Flash_(Barry_Allen)",
+    "year": "1959",
+    "alterego": "Bartholomew Henry \"Barry\" Allen"
+  },
+  {
+    "name": "Asterix",
+    "sidekick": "Obelix",
+    "wiki": "/wiki/Asterix_(character)",
+    "year": "1959",
+    "alterego": "Ast\u00e9rix (Gaul)"
+  },
+  {
+    "name": "Aquaman",
+    "sidekick": "Aqualad",
+    "wiki": "/wiki/Aquaman",
+    "year": "1960",
+    "alterego": "Arthur Curry"
+  },
+  {
+    "name": "Justice League",
+    "sidekick": "Snapper Carr",
+    "wiki": "/wiki/Justice_League",
+    "year": "1960"
+  },
+  {
+    "name": "Green Lantern (Hal Jordan)",
+    "sidekick": "Pieface",
+    "wiki": "/wiki/Hal_Jordan",
+    "year": "1960"
+  },
+  {
+    "name": "Batwoman",
+    "sidekick": "Bat-Girl",
+    "wiki": "/wiki/Batwoman",
+    "year": "1961",
+    "alterego": "Katherine Rebecca \"Kate\" Kane"
+  },
+  {
+    "name": "Superboy",
+    "sidekick": "Pete Ross",
+    "wiki": "/wiki/Superboy",
+    "year": "1961"
+  },
+  {
+    "name": "Hulk",
+    "sidekick": "Rick Jones",
+    "wiki": "/wiki/Hulk",
+    "year": "1962",
+    "alterego": "Robert Bruce Banner[1]"
+  },
+  {
+    "name": "Nick Fury",
+    "sidekick": "Dum Dum Dugan",
+    "wiki": "/wiki/Nick_Fury",
+    "year": "1963"
+  },
+  {
+    "name": "Doctor Strange",
+    "sidekick": "Wong",
+    "wiki": "/wiki/Doctor_Strange",
+    "year": "1963"
+  },
+  {
+    "name": "Diabolik",
+    "sidekick": "Eva Kant",
+    "wiki": "/wiki/Diabolik",
+    "year": "1963"
+  },
+  {
+    "name": "Daredevil",
+    "sidekick": "Foggy Nelson",
+    "wiki": "/wiki/Daredevil_(Marvel_Comics_series)",
+    "year": "1964"
+  },
+  {
+    "name": "Wonder Woman",
+    "sidekick": "Wonder Girl",
+    "wiki": "/wiki/Wonder_Woman",
+    "year": "1965",
+    "alterego": "Princess Diana of Themyscira (amazon identity)"
+  },
+  {
+    "name": "Sergeant Cornelius Chesterfield",
+    "sidekick": "Blutch",
+    "wiki": null,
+    "year": "1968"
+  },
+  {
+    "name": "Peppermint Patty",
+    "sidekick": "Marcie",
+    "wiki": "/wiki/Peppermint_Patty",
+    "year": "1968"
+  },
+  {
+    "name": "H\u00e4gar the Horrible",
+    "sidekick": "Lucky Eddie",
+    "wiki": "/wiki/H%C3%A4gar_the_Horrible",
+    "year": "1973"
+  },
+  {
+    "name": "Iron Man",
+    "sidekick": "Jim Rhodes",
+    "wiki": "/wiki/Iron_Man",
+    "year": "1979",
+    "alterego": "Anthony Edward \"Tony\" Stark"
+  },
+  {
+    "name": "Captain Britain",
+    "sidekick": "Jackdaw",
+    "wiki": "/wiki/Captain_Britain",
+    "year": "1980",
+    "alterego": "Brian Braddock"
+  },
+  { "name": "Biebel", "sidekick": "Reggie", "wiki": null, "year": "1983" },
+  {
+    "name": "Blue Devil",
+    "sidekick": "Kid Devil",
+    "wiki": "/wiki/Blue_Devil_(DC_Comics)",
+    "year": "1985"
+  },
+  { "name": "Gilles de Geus", "sidekick": "Leo", "wiki": null, "year": "1985" },
+  { "name": "Hannes", "sidekick": "Tamme", "wiki": null, "year": "1985" },
+  {
+    "name": "Shining Knight",
+    "sidekick": "Squire",
+    "wiki": "/wiki/Shining_Knight",
+    "year": "1988"
+  },
+  {
+    "name": "Captain Ultra",
+    "sidekick": "Buzzboy",
+    "wiki": "/w/index.php?title=Buzzboy&action=edit&redlink=1",
+    "year": "1988"
+  },
+  {
+    "name": "Wolverine",
+    "sidekick": "Jubilee",
+    "wiki": "/wiki/Wolverine_(character)",
+    "year": "1989",
+    "alterego": "James \"Logan\" Howlett"
+  },
+  {
+    "name": "Tick",
+    "sidekick": "Arthur the Moth",
+    "wiki": "/wiki/Tick_(comics)",
+    "year": "1989"
+  },
+  {
+    "name": "Midnight Mink",
+    "sidekick": "Chippy",
+    "wiki": "/wiki/Brat_Pack_(comics)",
+    "year": "1990"
+  },
+  {
+    "name": "Judge Jury",
+    "sidekick": "Kid Vicious",
+    "wiki": "/wiki/Brat_Pack_(comics)",
+    "year": "1990"
+  },
+  {
+    "name": "Moon Mistress",
+    "sidekick": "Luna",
+    "wiki": "/wiki/Brat_Pack_(comics)",
+    "year": "1990"
+  },
+  {
+    "name": "King Rad",
+    "sidekick": "Wild Boy",
+    "wiki": "/wiki/Brat_Pack_(comics)",
+    "year": "1990"
+  },
+  {
+    "name": "Bert Vanderslagmulders",
+    "sidekick": "Bobje",
+    "wiki": null,
+    "year": "1991"
+  },
+  {
+    "name": "Icon",
+    "sidekick": "Rocket",
+    "wiki": "/wiki/Icon_(character)",
+    "year": "1993"
+  },
+  {
+    "name": "Supreme",
+    "sidekick": "Kid Supreme",
+    "wiki": "/wiki/Supreme_(comics)",
+    "year": "1993",
+    "alterego": "Ethan Crane"
+  },
+  {
+    "name": "Flash (Wally West)",
+    "sidekick": "Kid Flash II",
+    "wiki": "/wiki/Wally_West",
+    "year": "1994"
+  },
+  {
+    "name": "Leopardman",
+    "sidekick": "Kitkat",
+    "wiki": "/wiki/List_of_Astro_City_characters#Heroes",
+    "year": "1995"
+  },
+  {
+    "name": "All-American",
+    "sidekick": "Slugger, the Junior Dynamo",
+    "wiki": "/wiki/List_of_Astro_City_characters#Heroes",
+    "year": "1996"
+  },
+  {
+    "name": "Confessor",
+    "sidekick": "Altar Boy",
+    "wiki": "/w/index.php?title=The_Confessor_(comics)&action=edit&redlink=1",
+    "year": "1997"
+  },
+  {
+    "name": "Gentleman",
+    "sidekick": "Looney Leo",
+    "wiki": "/wiki/List_of_Astro_City_characters#Heroes",
+    "year": "1998"
+  },
+  {
+    "name": "Starfighter",
+    "sidekick": "Quark",
+    "wiki": "/wiki/List_of_Astro_City_characters#Heroes",
+    "year": "1998"
+  },
+  {
+    "name": "El Hombre",
+    "sidekick": "Bravo",
+    "wiki": "/wiki/List_of_Astro_City_characters#Heroes",
+    "year": "1999"
+  },
+  {
+    "name": "Atoman",
+    "sidekick": "Atomaid",
+    "wiki": "/wiki/Top_10_(comics)",
+    "year": "2001"
+  },
+  {
+    "name": "Kingfisher",
+    "sidekick": "Bluejay",
+    "wiki": "/wiki/Top_10_(comics)",
+    "year": "2001"
+  },
+  {
+    "name": "Davy Jones",
+    "sidekick": "Davy Jones Jr.",
+    "wiki": "/wiki/Top_10_(comics)",
+    "year": "2001"
+  },
+  {
+    "name": "Hound",
+    "sidekick": "Pup",
+    "wiki": "/wiki/Top_10_(comics)",
+    "year": "2001"
+  },
+  {
+    "name": "Sizzler",
+    "sidekick": "Scorchy",
+    "wiki": "/wiki/Top_10_(comics)",
+    "year": "2001"
+  },
+  {
+    "name": "Owlman",
+    "sidekick": "Talon",
+    "wiki": "/wiki/Owlman_(comics)",
+    "year": "2007",
+    "alterego": "Thomas Wayne II, Thomas Wayne Jr, Lincoln March, Roy Raymond Jr."
+  },
+  {
+    "name": "Power Girl",
+    "sidekick": "Terra",
+    "wiki": "/wiki/Power_Girl",
+    "year": "2007",
+    "alterego": "Kara Zor-L"
+  },
+  {
+    "name": "Deadpool",
+    "sidekick": "Bob",
+    "wiki": "/wiki/Deadpool",
+    "year": "2007",
+    "alterego": "Wade Winston Wilson[1]"
+  },
+  {
+    "name": "Duck-Girl",
+    "sidekick": "Finch",
+    "wiki": "/w/index.php?title=Duck-Girl_%26_Crane_Animated!_(books)&action=edit&redlink=1",
+    "year": "2011"
+  },
+  {
+    "name": "Spider-Man",
+    "sidekick": "Alpha",
+    "wiki": "/wiki/Spider-Man",
+    "year": "2012",
+    "alterego": "Peter Benjamin Parker"
+  },
+  { "name": "Chlorophylle", "sidekick": "Minimum", "wiki": null, "year": "?" },
+  { "name": "Johan", "sidekick": "Peewit", "wiki": null, "year": "?" },
+  {
+    "name": "J. Wellington Wimpy",
+    "sidekick": "Wimpy",
+    "wiki": null,
+    "year": "?"
+  },
+  {
+    "name": "Snoopy",
+    "sidekick": "Woodstock",
+    "wiki": "/wiki/Snoopy",
+    "year": "June 22, 1970[18]"
+  }
+]

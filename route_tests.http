@@ -1,0 +1,18 @@
+GET "http://localhost:5000"
+
+###
+
+POST http://localhost:5000/api/auth/login HTTP/1.1
+content-type: application/json
+
+{
+    "username": "new8",
+    "password": "password"
+}
+###
+
+POST http://localhost:5000/api/auth/logout HTTP/1.1
+
+###
+
+GET "http://localhost:5000/secure"
