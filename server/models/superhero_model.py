@@ -24,7 +24,7 @@ def create(superhero_to_create):
     
     return query(insert_sql, args)
 
-def update(id,superhero_to_update):
+def update_superhero(id,superhero_to_update):
     if 'nickname' not in superhero_to_update:
         superhero_to_update['nickname']=None
     if 'alterego' not in superhero_to_update:
